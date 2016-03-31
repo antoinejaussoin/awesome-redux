@@ -182,3 +182,4 @@
     * [2048 game - Implemented with React and Redux](https://github.com/dvalchanov/react-redux-2048)
     * [https://github.com/panayi/calculator](https://github.com/panayi/calculator)
     * [https://github.com/salsita/redux-elm](https://github.com/salsita/redux-elm)
+    * [Retrospected: a multilingual Retrospective Board](https://github.com/antoinejaussoin/retro-board), [Website](http://www.retrospected.com)
